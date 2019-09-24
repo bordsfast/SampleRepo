@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '11.3'
 
   s.source_files = 'MecomPGI/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'MecomPGI' => ['MecomPGI/Assets/*.png']
   # }
